@@ -70,6 +70,36 @@
         "和風親子丼"
       ],
       "checked": true
+    },
+    {
+      "id": "fu73h89mvs1r739",
+      "name": "紅蘿蔔",
+      "qty": 1,
+      "unit": "條",
+      "sources": [
+        "紅酒燉牛肉"
+      ],
+      "checked": false
+    },
+    {
+      "id": "lhlw5cwmvs1r739",
+      "name": "馬鈴薯",
+      "qty": 2,
+      "unit": "顆",
+      "sources": [
+        "紅酒燉牛肉"
+      ],
+      "checked": false
+    },
+    {
+      "id": "4eebu7amvs1r739",
+      "name": "鹽",
+      "qty": 1,
+      "unit": "小匙",
+      "sources": [
+        "紅酒燉牛肉"
+      ],
+      "checked": false
     }
   ]
 }
