@@ -1,16 +1,6 @@
 {
   "items": [
     {
-      "id": "5awx6d0mvs1my3x",
-      "name": "雞腿",
-      "qty": 4,
-      "unit": "隻",
-      "sources": [
-        "番茄燉雞腿"
-      ],
-      "checked": true
-    },
-    {
       "id": "1ecydt8mvs1my3x",
       "name": "牛番茄",
       "qty": 3,
@@ -21,37 +11,6 @@
       "checked": false
     },
     {
-      "id": "g5nmxuamvs1my3x",
-      "name": "洋蔥",
-      "qty": 1.5,
-      "unit": "顆",
-      "sources": [
-        "番茄燉雞腿",
-        "和風親子丼"
-      ],
-      "checked": true
-    },
-    {
-      "id": "if1a3xpmvs1my3x",
-      "name": "蒜頭",
-      "qty": 3,
-      "unit": "瓣",
-      "sources": [
-        "番茄燉雞腿"
-      ],
-      "checked": true
-    },
-    {
-      "id": "iit8uc5mvs1my3x",
-      "name": "鹽",
-      "qty": 1,
-      "unit": "小匙",
-      "sources": [
-        "番茄燉雞腿"
-      ],
-      "checked": true
-    },
-    {
       "id": "8nvm9bzmvs1nlpf",
       "name": "白飯",
       "qty": 2,
@@ -60,16 +19,6 @@
         "和風親子丼"
       ],
       "checked": false
-    },
-    {
-      "id": "a5fxqhtmvs1nlpf",
-      "name": "醬油",
-      "qty": 2,
-      "unit": "大匙",
-      "sources": [
-        "和風親子丼"
-      ],
-      "checked": true
     },
     {
       "id": "fu73h89mvs1r739",
@@ -90,37 +39,6 @@
         "紅酒燉牛肉"
       ],
       "checked": false
-    },
-    {
-      "id": "4eebu7amvs1r739",
-      "name": "鹽",
-      "qty": 2,
-      "unit": "小匙",
-      "sources": [
-        "紅酒燉牛肉",
-        "鹽烤鯖魚"
-      ],
-      "checked": true
-    },
-    {
-      "id": "fo1669bmvs1rog9",
-      "name": "清酒",
-      "qty": 1,
-      "unit": "大匙",
-      "sources": [
-        "鹽烤鯖魚"
-      ],
-      "checked": true
-    },
-    {
-      "id": "ja3qg0smvs1u1pw",
-      "name": "兔子",
-      "qty": 1,
-      "unit": "隻",
-      "sources": [
-        "test"
-      ],
-      "checked": true
     }
   ]
 }
