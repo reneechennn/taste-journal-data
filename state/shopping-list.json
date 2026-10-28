@@ -94,10 +94,21 @@
     {
       "id": "4eebu7amvs1r739",
       "name": "鹽",
-      "qty": 1,
+      "qty": 2,
       "unit": "小匙",
       "sources": [
-        "紅酒燉牛肉"
+        "紅酒燉牛肉",
+        "鹽烤鯖魚"
+      ],
+      "checked": false
+    },
+    {
+      "id": "fo1669bmvs1rog9",
+      "name": "清酒",
+      "qty": 1,
+      "unit": "大匙",
+      "sources": [
+        "鹽烤鯖魚"
       ],
       "checked": false
     }
