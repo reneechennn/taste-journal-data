@@ -23,10 +23,11 @@
     {
       "id": "g5nmxuamvs1my3x",
       "name": "洋蔥",
-      "qty": 1,
+      "qty": 1.5,
       "unit": "顆",
       "sources": [
-        "番茄燉雞腿"
+        "番茄燉雞腿",
+        "和風親子丼"
       ],
       "checked": false
     },
@@ -47,6 +48,26 @@
       "unit": "小匙",
       "sources": [
         "番茄燉雞腿"
+      ],
+      "checked": false
+    },
+    {
+      "id": "8nvm9bzmvs1nlpf",
+      "name": "白飯",
+      "qty": 2,
+      "unit": "碗",
+      "sources": [
+        "和風親子丼"
+      ],
+      "checked": false
+    },
+    {
+      "id": "a5fxqhtmvs1nlpf",
+      "name": "醬油",
+      "qty": 2,
+      "unit": "大匙",
+      "sources": [
+        "和風親子丼"
       ],
       "checked": false
     }
