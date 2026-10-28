@@ -39,6 +39,13 @@
         "紅酒燉牛肉"
       ],
       "checked": false
+    },
+    {
+      "id": "nrdfznzmvs4gc89",
+      "name": "橄欖油 一瓶",
+      "sources": [],
+      "checked": false,
+      "custom": true
     }
   ]
 }
