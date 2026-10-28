@@ -111,6 +111,16 @@
         "鹽烤鯖魚"
       ],
       "checked": false
+    },
+    {
+      "id": "ja3qg0smvs1u1pw",
+      "name": "兔子",
+      "qty": 1,
+      "unit": "隻",
+      "sources": [
+        "test"
+      ],
+      "checked": false
     }
   ]
 }
