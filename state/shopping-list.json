@@ -39,6 +39,14 @@
         "紅酒燉牛肉"
       ],
       "checked": false
+    },
+    {
+      "id": "o4nfbh7mvs55bxn",
+      "name": "味醂",
+      "qty": 1,
+      "unit": "罐",
+      "sources": [],
+      "checked": false
     }
   ]
 }
