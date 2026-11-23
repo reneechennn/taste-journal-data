@@ -1,26 +1,3 @@
 {
-  "items": [
-    {
-      "id": "e7smwk9mwq9hhc7",
-      "name": "奶油",
-      "sources": [],
-      "checked": true
-    },
-    {
-      "id": "c00d1udmwsv1ydq",
-      "name": "帶骨土雞腿",
-      "sources": [
-        "蒜頭雞湯"
-      ],
-      "checked": false
-    },
-    {
-      "id": "1wc0nm2mwsv1ydq",
-      "name": "薑片",
-      "sources": [
-        "蒜頭雞湯"
-      ],
-      "checked": false
-    }
-  ]
+  "items": []
 }
